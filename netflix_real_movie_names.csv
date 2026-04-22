@@ -1,0 +1,100 @@
+show_id,type,cast,country,date_added,release_year,rating,duration,genre,movie_names
+s388,TV Show,"Actor 1, Actor 237",India,03-02-2019,2015,2,1 Seasons,Romance,Inception
+s474,Movie,"Actor 1, Actor 319",USA,18-06-2019,2002,5,84 min,Thriller,The Dark Knight
+s211,TV Show,"Actor 1, Actor 357",India,24-08-2018,2002,6,5 Seasons,Documentary,Interstellar
+s364,Movie,"Actor 10, Actor 238",USA,04-04-2015,2013,4,135 min,Drama,The Godfather
+s623,Movie,"Actor 10, Actor 280",Australia,16-10-2013,2000,6,103 min,Drama,Pulp Fiction
+s143,TV Show,"Actor 10, Actor 282",Canada,22-02-2024,2006,4,5 Seasons,Comedy,The Shawshank Redemption
+s287,Movie,"Actor 10, Actor 292",Australia,13-04-2020,2022,9,136 min,Documentary,Forrest Gump
+s48,TV Show,"Actor 10, Actor 308",UK,22-10-2024,2017,5,5 Seasons,Drama,The Matrix
+s422,TV Show,"Actor 10, Actor 312",UK,15-05-2025,2009,6,4 Seasons,Action,Gladiator
+s185,Movie,"Actor 10, Actor 364",USA,15-06-2020,2020,6,127 min,Action,Titanic
+s769,Movie,"Actor 10, Actor 388",UK,01-01-2014,2004,10,161 min,Documentary,Stranger Things
+s169,TV Show,"Actor 100, Actor 229",India,04-10-2023,2003,8,5 Seasons,Drama,The Crown
+s325,Movie,"Actor 100, Actor 251",India,16-05-2017,2003,6,106 min,Horror,Breaking Bad
+s979,Movie,"Actor 101, Actor 226",India,20-06-2025,2017,1,126 min,Romance,Money Heist
+s941,Movie,"Actor 101, Actor 232",UK,11-08-2012,2025,9,100 min,Horror,Black Mirror
+s739,Movie,"Actor 101, Actor 266",USA,22-05-2018,2025,4,137 min,Drama,The Witcher
+s550,Movie,"Actor 101, Actor 281",USA,01-12-2013,2009,4,169 min,Action,Squid Game
+s610,Movie,"Actor 101, Actor 315",Australia,20-11-2018,2014,4,177 min,Comedy,Narcos
+s368,TV Show,"Actor 102, Actor 232",UK,09-11-2012,2020,9,5 Seasons,Romance,The Queen's Gambit
+s687,Movie,"Actor 102, Actor 270",Australia,11-12-2016,2015,3,153 min,Documentary,Dark
+s258,Movie,"Actor 102, Actor 272",UK,17-07-2022,2001,6,170 min,Thriller,Parasite
+s977,TV Show,"Actor 102, Actor 295",Canada,16-05-2019,2020,3,3 Seasons,Comedy,Joker
+s835,TV Show,"Actor 102, Actor 313",UK,12-07-2022,2022,5,3 Seasons,Documentary,Avengers: Endgame
+s851,Movie,"Actor 102, Actor 345",UK,16-05-2019,2021,2,87 min,Action,Spider-Man: No Way Home
+s566,TV Show,"Actor 103, Actor 329",Canada,28-09-2023,2013,9,1 Seasons,Action,Dune
+s674,TV Show,"Actor 104, Actor 211",USA,20-01-2018,2001,9,4 Seasons,Romance,The Lion King
+s450,Movie,"Actor 104, Actor 219",UK,13-05-2016,2005,2,142 min,Horror,Spirited Away
+s348,Movie,"Actor 104, Actor 250",USA,19-07-2012,2021,3,116 min,Thriller,Whiplash
+s813,TV Show,"Actor 104, Actor 257",UK,15-10-2023,2020,3,4 Seasons,Action,The Prestige
+s843,TV Show,"Actor 105, Actor 224",Australia,07-03-2018,2022,9,4 Seasons,Thriller,The Departed
+s330,Movie,"Actor 105, Actor 261",Canada,09-10-2020,2021,10,111 min,Horror,Whiplash
+s784,TV Show,"Actor 105, Actor 361",USA,06-11-2015,2014,3,2 Seasons,Comedy,La La Land
+s536,Movie,"Actor 106, Actor 204",Canada,16-07-2017,2002,5,167 min,Documentary,Arrival
+s411,Movie,"Actor 106, Actor 397",India,23-08-2017,2015,5,114 min,Thriller,Blade Runner 2049
+s803,TV Show,"Actor 107, Actor 209",India,06-10-2017,2016,6,2 Seasons,Thriller,The Irishman
+s995,Movie,"Actor 107, Actor 254",Canada,14-06-2023,2014,10,102 min,Comedy,Roma
+s802,Movie,"Actor 107, Actor 270",India,16-04-2017,2015,8,148 min,Romance,Marriage Story
+s842,TV Show,"Actor 107, Actor 270",Australia,07-05-2011,2007,4,5 Seasons,Romance,The Social Network
+s12,Movie,"Actor 107, Actor 303",India,04-10-2022,2009,3,101 min,Romance,Coco
+s633,Movie,"Actor 107, Actor 321",Canada,28-08-2016,2006,1,83 min,Thriller,Toy Story
+s446,TV Show,"Actor 107, Actor 375",USA,11-06-2020,2009,10,5 Seasons,Documentary,The Grand Budapest Hotel
+s953,Movie,"Actor 108, Actor 230",Australia,09-11-2023,2019,6,117 min,Drama,Mad Max: Fury Road
+s525,Movie,"Actor 108, Actor 275",USA,04-03-2016,2007,9,112 min,Thriller,Her
+s997,Movie,"Actor 108, Actor 323",UK,05-08-2023,2000,8,164 min,Horror,Birdman
+s234,TV Show,"Actor 108, Actor 366",India,01-05-2024,2003,2,4 Seasons,Comedy,Boyhood
+s265,Movie,"Actor 109, Actor 273",Australia,20-11-2022,2012,9,177 min,Drama,Moonlight
+s989,Movie,"Actor 109, Actor 277",India,12-06-2023,2011,6,126 min,Documentary,Get Out
+s428,Movie,"Actor 109, Actor 281",USA,20-12-2018,2014,9,180 min,Drama,Lady Bird
+s436,TV Show,"Actor 109, Actor 296",Australia,21-12-2018,2021,6,3 Seasons,Action,The Shape of Water
+s845,TV Show,"Actor 109, Actor 311",India,01-06-2021,2011,8,5 Seasons,Drama,Green Book
+s640,Movie,"Actor 109, Actor 314",UK,06-10-2011,2006,1,176 min,Action,Everything Everywhere All At Once
+s412,TV Show,"Actor 109, Actor 316",UK,04-09-2025,2005,6,1 Seasons,Thriller,Top Gun: Maverick
+s290,TV Show,"Actor 109, Actor 346",India,23-03-2017,2014,8,2 Seasons,Thriller,Oppenheimer
+s231,Movie,"Actor 109, Actor 370",Australia,05-07-2019,2022,6,114 min,Drama,Barbie
+s656,TV Show,"Actor 109, Actor 376",India,28-02-2020,2022,8,5 Seasons,Romance,The Banshees of Inisherin
+s68,TV Show,"Actor 109, Actor 390",Australia,01-09-2016,2025,7,2 Seasons,Romance,Tár
+s306,Movie,"Actor 11, Actor 289",USA,23-11-2018,2010,8,102 min,Horror,Elvis
+s209,TV Show,"Actor 11, Actor 297",UK,09-08-2020,2000,6,5 Seasons,Action,Avatar: The Way of Water
+s498,TV Show,"Actor 11, Actor 300",India,25-11-2011,2006,8,1 Seasons,Documentary,The Fabelmans
+s205,Movie,"Actor 11, Actor 314",Australia,20-04-2020,2000,4,86 min,Documentary,Knives Out
+s38,TV Show,"Actor 11, Actor 397",UK,14-06-2020,2011,1,2 Seasons,Romance,Glass Onion
+s444,TV Show,"Actor 110, Actor 248",Australia,01-04-2013,2024,10,4 Seasons,Comedy,Enola Holmes
+s750,Movie,"Actor 110, Actor 278",UK,25-03-2021,2025,4,155 min,Thriller,Extraction
+s992,TV Show,"Actor 110, Actor 305",UK,17-12-2021,2003,1,2 Seasons,Thriller,The Old Guard
+s439,Movie,"Actor 110, Actor 331",Australia,11-07-2013,2013,9,137 min,Thriller,Bohemian Rhapsody
+s636,Movie,"Actor 110, Actor 362",Canada,20-08-2020,2010,10,82 min,Comedy,Rocketman
+s452,TV Show,"Actor 110, Actor 396",Australia,09-04-2025,2004,10,3 Seasons,Romance,A Star Is Born
+s651,TV Show,"Actor 111, Actor 248",Australia,22-07-2016,2002,3,1 Seasons,Drama,JoJo Rabbit
+s379,TV Show,"Actor 111, Actor 371",Canada,19-09-2015,2011,3,2 Seasons,Drama,Stranger Things
+s427,Movie,"Actor 111, Actor 384",India,23-07-2019,2009,1,119 min,Drama,Knives Out
+s667,TV Show,"Actor 112, Actor 227",India,02-03-2021,2011,10,5 Seasons,Documentary,The Gentlemen
+s233,TV Show,"Actor 112, Actor 237",USA,10-07-2023,2013,7,2 Seasons,Comedy,Tenet
+s588,Movie,"Actor 112, Actor 250",India,01-08-2021,2010,7,157 min,Thriller,Soul
+s232,Movie,"Actor 112, Actor 263",Canada,22-10-2015,2023,9,88 min,Horror,Luca
+s463,TV Show,"Actor 112, Actor 351",USA,19-03-2024,2021,4,1 Seasons,Romance,Encanto
+s731,Movie,"Actor 112, Actor 356",UK,01-03-2025,2014,9,135 min,Action,Turning Red
+s951,TV Show,"Actor 112, Actor 376",UK,15-01-2018,2005,4,3 Seasons,Drama,The Batman
+s666,TV Show,"Actor 113, Actor 266",Australia,28-02-2016,2011,10,5 Seasons,Comedy,The Northman
+s999,TV Show,"Actor 113, Actor 321",UK,28-05-2019,2006,7,2 Seasons,Romance,Bullet Train
+s493,TV Show,"Actor 113, Actor 368",UK,04-08-2018,2009,6,1 Seasons,Horror,Nope
+s781,Movie,"Actor 113, Actor 397",Australia,15-01-2023,2013,2,110 min,Action,Babylon
+s961,Movie,"Actor 114, Actor 209",India,12-10-2012,2005,6,155 min,Documentary,The Whale
+s234,Movie,"Actor 114, Actor 440",India,24-02-2020,2004,6,117 min,Romance,Extraction
+s654,Movie,"Actor 114, Actor 420",USA,21-12-2018,2007,9,124 min,Adventure,3 Idiots
+s790,Movie,"Actor 114, Actor 220",USA,27-11-2019,2002,10,209 min,Mystery,Roma
+s781,TV Show,"Actor 114, Actor 212",India,01-08-2019,2010,6,170 min,Fantasy,The Platform
+s957,Movie,"Actor 114, Actor 213",Mexico,14-12-2018,2020,9,135 min,Thriller,The Old Guard
+s654,TV Show,"Actor 114, Actor 275",Spain,20-02-2020,2006,8,94 min,Drama,Raat Akeli Hai
+s352,Movie,"Actor 115, Actor 280",India,03-06-2002,2004,6,161 min,History,To All the Boys I've Loved Before
+s657,TV Show,"Actor 115, Actor 466",USA,15-07-2002,2003,9,120 min,Crime,Sacred Games
+s473,Movie,"Actor 115, Actor 320",USA,10-06-2001,2001,10,125 min,Thriller,Money Heist
+s974,TV Show,"Actor 114, Actor 570",USA,22-09-2003,2000,8,150 min,Crime,The Witcher
+s534,Movie,"Actor 115, Actor 680",India,01-01-2004,2016,3,143 min,Romance,The Irishman
+s273,Movie,"Actor 116, Actor 881",USA,14-08-2004,2018,6,2 seasons,Thriller,Okja
+s854,TV Show,"Actor 115, Actor 985",UK,11-05-2003,2014,4,5 Seasons,Fantasy,Enola Holmes
+s325,TV Show,"Actor 116, Actor 793",USA,06-05-2007,2011,9,129 min,History,The Trial of the Chicago 7
+s602,Movie,"Actor 116, Actor 984",India,19-06-2024,2008,10,105 min,Drama,Don't Look Up
+s143,TV Show,"Actor 116, Actor 640",Spain,28-08-2025,2009,9,99 min,Mystery,The Booth
+s466,Movie,"Actor 116, Actor 527",USA,25-12-2023,2018,6,146 min,Crime,Bird Box
